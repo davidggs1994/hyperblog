@@ -1,0 +1,3 @@
+Esto es un archivo de prueba.
+
+David Galindo, archivo de texto con extension .txt
