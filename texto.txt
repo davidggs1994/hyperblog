@@ -1,5 +1,0 @@
-Esto es un archivo modificado.
-
-David Galindo, archivo de texto plano
-
-Se esta agregando una nueva linea este archivo
